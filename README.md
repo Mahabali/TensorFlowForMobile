@@ -2,8 +2,10 @@
 
 This is a simple tutorial for implementing machine learning with custom model in mobile apps. This tutorial consists of 3 parts
 
-1.  Simple TensorFlow Model for computing y= 2x+1. Create
-	1. Tensorflow model
+
+## Repos
+  Simple TensorFlow Model for computing y= 2x+1. There are 3 repos
+	1. [Tensorflow model](https://github.com/Mahabali/TensorFlowForMobile)
 	2. [TensorflowLite Model for Android](https://github.com/Mahabali/TFLiteAndroidSample). 
 	3. [CoreML model for iOS (using CoreML tools)](https://github.com/Mahabali/CoreMLSampleiOS)
 
@@ -11,7 +13,7 @@ I could have used tensorflow lite for iOS. I implemented CoreML because, its eas
 
 I have used 'Nadam' optimizer with Mean absolute error regression loss. Feel free to play with different optimizer.
 
-# How to use
+## How to use
 
 1. Go to colab.google.com
 2. Open the jupyter notebook(ipynb) in this repo
