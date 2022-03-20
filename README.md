@@ -32,4 +32,4 @@ I have used 'Nadam' optimizer with Mean absolute error regression loss. Feel fre
 ![Screenshot](https://github.com/Mahabali/CoreMLSampleiOS/blob/main/Screenshot.png)
 
 ### Android Screenshot
-![Screenshot](https://github.com/Mahabali/CoreMLSampleiOS/blob/main/Screenshot.png)
+![Screenshot](https://github.com/Mahabali/TFLiteAndroidSample/blob/main/Screenshot.png)
