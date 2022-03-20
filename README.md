@@ -28,11 +28,8 @@ I have used 'Nadam' optimizer with Mean absolute error regression loss. Feel fre
 2. SampleTFLiteModel.tflite - TFLite Model for Android
 3. SampleMLModel.mlmodel - CoreML Model for iOS 
 
-### Android Screenshot
-![Screenshot](https://github.com/Mahabali/CoreMLSampleiOS/blob/main/Screenshot.png)
-
 ### iOS Screenshot
 ![Screenshot](https://github.com/Mahabali/CoreMLSampleiOS/blob/main/Screenshot.png)
 
-### Note
-iOS is rounding up output values, while Android is rounding down :-) 
+### Android Screenshot
+![Screenshot](https://github.com/Mahabali/CoreMLSampleiOS/blob/main/Screenshot.png)
